@@ -1,6 +1,4 @@
 ## Hello, I’m Gábor Parti
-
-I am a research postgraduate student at The Hong Kong Polytechnic University.
  
 ![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&show_icons=true&theme=solarized-dark)
  

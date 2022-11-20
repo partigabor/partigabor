@@ -1,4 +1,4 @@
-## Hello, I’m Gábor Parti
+<!-- # Hello, I’m Gábor Parti -->
  
 ![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&show_icons=true&theme=solarized-dark)
  

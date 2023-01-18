@@ -1,6 +1,6 @@
-# Hello, I’m Gábor Parti
+# Hi, I’m [Gábor Parti](https://partigabor.github.io/)
  
-![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&show_icons=true&theme=solarized-dark)
+<!-- ![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&show_icons=true&theme=solarized-dark) -->
  
 <!---
 partigabor/partigabor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

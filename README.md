@@ -2,6 +2,8 @@
  
 ![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&show_icons=true&theme=solarized-dark)
  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=partigabor)](https://git.io/streak-stats)
+ 
 <!---
 partigabor/partigabor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

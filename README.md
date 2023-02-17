@@ -2,7 +2,7 @@
  
 ![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&show_icons=true&theme=solarized-dark)
 
-Hmm...
+***
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=partigabor&theme=solarized-dark)](https://git.io/streak-stats)
  

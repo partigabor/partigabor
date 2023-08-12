@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=partigabor&theme=solarized-dark&card_width=450)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partigabor&layout=donut&theme=solarized-dark&card_width=400&exclude_repo=&hide=makefile&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=partigabor&layout=donut&theme=solarized-dark&card_width=250&exclude_repo=&hide=makefile&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!---jupyter%20notebook-->
 

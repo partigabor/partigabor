@@ -1,4 +1,4 @@
-Hi :wave: I am [Gábor Parti](https://partigabor.github.io/)
+# Hi :wave: I am [Gábor Parti](https://partigabor.github.io/)
 
 <!---
 <h1 align="center">

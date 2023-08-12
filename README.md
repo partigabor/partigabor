@@ -1,4 +1,11 @@
-# Hi, I’m [Gábor Parti](https://partigabor.github.io/)
+<h1 align="center">
+    Hi :wave: I am <a href="https://partigabor.github.io/" target="_blank">Gábor Parti</a>
+</h1>
+
+<!---https://shields.io/badges-->
+
+![GitHub followers](https://img.shields.io/github/followers/partigabor?logo=github&style=flat )
+![GitHub User's stars](https://img.shields.io/github/stars/partigabor?logo=github&style=flat )
  
 ![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&show_icons=true&theme=solarized-dark&card_width=500)
 

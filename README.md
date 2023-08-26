@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/partigabor?logo=github&style=flat)
 ![GitHub User's stars](https://img.shields.io/github/stars/partigabor?logo=github&style=flat)-->
  
-![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&show_icons=true&theme=solarized-dark&card_width=500)
+![Gábor's GitHub stats](https://github-readme-stats.vercel.app/api?username=partigabor&&hide=rating&show_icons=true&theme=solarized-dark&card_width=500)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=partigabor&theme=solarized-dark&card_width=500)](https://git.io/streak-stats)
 

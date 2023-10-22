@@ -1,4 +1,4 @@
-# Hi, I am [Gábor Parti](https://partigabor.github.io/)
+# Hi, I am [Gábor](https://partigabor.github.io/)
 
 <!---<h1 align="center">
     Hi :wave: I am <a href="https://partigabor.github.io/" target="_blank">Gábor Parti</a>
